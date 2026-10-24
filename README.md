@@ -98,9 +98,9 @@ This repository provides:
 ## 🚀 Getting Started & Testing
 
 1. Restore Database in SSMS:
-  * Open SQL Server Management Studio (SSMS).
-  * Right-click Databases > Restore Database...
-  * Select Device and browse to the included `DVLD.bak` file[cite: 1].
+    * Open SQL Server Management Studio (SSMS).
+    * Right-click Databases > Restore Database...
+    * Select Device and browse to the included `DVLD.bak` file[cite: 1].
 
 2. Execute Queries:
-  * Start querying tables like `People`, `Applications`, `Licenses`, and `DetainedLicenses` to analyze system workflows[cite: 4]!
+    * Start querying tables like `People`, `Applications`, `Licenses`, and `DetainedLicenses` to analyze system workflows[cite: 4]!
